@@ -1,0 +1,18 @@
+body {
+    background: rgb(0, 141, 151);
+}
+h2{
+    color: white;
+    font-family:high tower text;
+    text-align:center;
+}
+table{
+    background: white;
+}
+.td {
+    font-weight:bold;
+}
+.dashed{
+    border-style:dashed;
+    border-color:red;
+}
